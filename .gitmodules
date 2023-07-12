@@ -1,0 +1,12 @@
+[submodule "avdark_lab1"]
+	path = avdark_lab1
+	url = https://github.com/Petrus97/avdark_lab1
+[submodule "avdark_lab2"]
+	path = avdark_lab2
+	url = https://github.com/Petrus97/avdark_lab2
+[submodule "avdark_lab3"]
+	path = avdark_lab3
+	url = https://github.com/Petrus97/avdark_lab3
+[submodule "avdark_lab4"]
+	path = avdark_lab4
+	url = https://github.com/Petrus97/avdark_lab4
